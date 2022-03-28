@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.Flunet", "EF.Flunet\EF.Flunet.csproj", "{2D8454CC-2CFA-4EEF-B466-DB724F29D2D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.DataLayer", "EF.DataLayer\EF.DataLayer.csproj", "{B577E33D-84D9-4884-91C0-44E6F140157A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D8454CC-2CFA-4EEF-B466-DB724F29D2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D8454CC-2CFA-4EEF-B466-DB724F29D2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D8454CC-2CFA-4EEF-B466-DB724F29D2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D8454CC-2CFA-4EEF-B466-DB724F29D2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B577E33D-84D9-4884-91C0-44E6F140157A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B577E33D-84D9-4884-91C0-44E6F140157A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B577E33D-84D9-4884-91C0-44E6F140157A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B577E33D-84D9-4884-91C0-44E6F140157A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ED705ED-8D1D-44CF-9D16-21E7B954DFB0}
+	EndGlobalSection
+EndGlobal
